@@ -8,7 +8,7 @@ environment:
   sdk: '>=2.17.0 <4.0.0'
 
 dependencies:
-  rxdart: ^0.27.7
+  rxdart: ^0.28.0
 
 dev_dependencies:
   pedantic_mono: ^1.26.0
